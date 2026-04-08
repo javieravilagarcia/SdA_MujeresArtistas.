@@ -16,4 +16,15 @@ Situación de Aprendizaje para trabajar la presencia de las Artistas Mujeres a l
 
 6- Presentación de los Podcast. 1 Sesión.
 
+- Productos.
+
+1- Infografía con Canva. Esta tarea deberá de incluir, además de la imagen de la artista elegida y algunas de sus obras, un elemento interactivo que despliegue una breve biografía de la autora.
+
+2- Realización de un Podcast presentando diferentes artistas mujeres a lo largo de la Historia del Arte, contextualizándolas en sus propios momentos históricos.
+
+- Herramientas
+Fundamentalmente se utilizarán equipos informáticos con acceso a la Red, así como aplicaciones de diseño como Canva y programas de grabación y edición tipo Audicity. Al alumnado se le facilitarán enlaces para su investigación en busca de esas artistas mujeres silenciadas en los manuales de arte, hablamos sobre todo de la web www.taldiacomohoy.com consistente en un banco de datos amplísimo sobre mujeres artistas de cualquier época y estilo o porcedencia geográfica, trabajo realizado por la artista Diana Larrea y que supone todo un referente en la temática elegida.
+
+
+
   
