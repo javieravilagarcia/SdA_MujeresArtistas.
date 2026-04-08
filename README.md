@@ -36,6 +36,10 @@ Retos del siglo XXI
 - Mentalidad del Bienestar. Desarrollar emociones a través del arte.
 - Colaboración. Escuchar activamente otras perspectivas e ideas.
 
+2. Elementos curriculares.
+
+- Competencias Clave
+
 
 
   
