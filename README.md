@@ -104,6 +104,44 @@ Criterios de Evaluación.
 
 Descritores Operativos. CCL2, CD1, CPSAA3, CC1, CCEC3
 
+SABERES BÁSICOS
+Bloque A. Patrimonio Artístico y Cultural
+- Los géneros artísticos.
+- Manifestaciones culturales y artísticas más importantes, incluidas las contemporáneas y las pertenecientes al patrimonio local: sus aspectos formales y su realción con el contexto histórico.
+ 
+Bloque B. Elementos formales de la imagen y del lenguaje visual. La expresión Gráfica.
+- El lenguaje visual como forma de comunicación.
+- Elementos visuales, conceptos y posibilidades expresivas: forma, color y textura.
+
+Bloque C. Expresión artística y gráfico-plástica.
+- Introducción al diseño gráfico
+
+Bloque d. Imagen y comunicación visual y audiovisual.
+- El elnguaje y la comunicación visual. Informativa, comunicativa, expresiva y estética. Contextos y funciones.
+- Imágenes visuales y audiovisuales: lectura y análisis.
+
+3- METODOLOGÍAS ACTIVAS
+- Aprendizaje basado en pensamiento.
+- Aprendizaje basado en proyectos.
+- Aprendizaje cooperativo.
+- Gamificación.
+- Aprendizaje por descubrimiento.
+- Técnicas de Grupo.
+
+4- VINCULACIÓN CON PROYECTOS Y PROGRAMAS DE CENTRO.
+- PLEI.
+- MACEAS
+
+5- ACTIVIDADES COMPLEMENTARIAS Y EXTRAESCOLARES.
+- Visita a Laboral Centro de Arte y Creación Industrial
+- Visita Museo de Bellas Artes de Asturias
+
+6. Atribución y Fichero descargable
+Creative Commons: Reconocimeinto-compartir igual 4.0
+
+
+
+
   		
 		
 		
