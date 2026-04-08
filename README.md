@@ -28,7 +28,12 @@ Fundamentalmente se utilizarán equipos informáticos con acceso a la Red, así 
 1- Intención Educativa:
 - Justificación e impacto esperado. Esta situación de aprendizaje es crucial para que el alumnado comprenda la invisiblidad histórica de las mujeres en el arte y la importancia de su contribución a la misma. A través de la investigación y creación de una infografía sobre alguna de estas artistas y la posterior grabación de un podcast, no sólo se desarrollan las habilidades artísticas, artísticas y tecnológicas, sino que también se amplía la visión crítica sobre la igualdad de género en la cultura. Al tratarse de temas relevantes y contemporáneos, el alumnado se siente motivado y conectado con su entorno, promoviendo el respeto por la diversidad y la inclusión en el ámbito artístico.
 
-Retos del siglo XXI
+Realción con ODS 2030 y Retos del siglo XXI
+
+ODS 5. Igualdad de Género. La igualdad entre géneros no es solo un derecho humano fundamental, sino la base necesaria para construir nuestro futuro.
+ODS 11. Ciudades y comunidades sostenibles. Conservar y difundir el patrimonio natural y cultural nos permite aprender del pasado, valorar el presente y consytruir el futuro.
+
+Principales desafíos educativos para el Siglo XXI
 
 - Pensamiento Creativo. Desarrollar la creatividad a través del arte y expresar ideas de forma creativa.
 - Pensamiento Crítico. Interesarse por las manifestaciones artísticas y poder caracterizarlas
@@ -38,8 +43,16 @@ Retos del siglo XXI
 
 2. Elementos curriculares.
 
-- Competencias Clave
+- Competencias Clave y Descriptores (Perfil de Salida)
+ 
+Competencia en comunicación lingüística (CCL): Comprender, interpretar y producir textos (orales, escritos, multimodales).
+Competencia plurilingüe (CP): Uso de distintas lenguas de forma apropiada para el aprendizaje y la comunicación..
+Competencia digital (CD): Uso seguro, crítico y responsable de las tecnologías.
+Competencia personal, social y de aprender a aprender (CPSAA): Capacidad de autorregular el aprendizaje, gestionar emociones y trabajar en equipo.
+Competencia ciudadana (CC): Actuación responsable y participación activa basada en el pensamiento crítico.
+Competencia emprendedora (CE): Acción creativa, planificación y gestión de proyectos.
+Competencia en conciencia y expresión culturales (CCEC): Comprensión y respeto de la diversidad cultural y expresión creativa.
 
-
+- Competencias Específicas.
 
   
