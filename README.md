@@ -27,6 +27,9 @@ Fundamentalmente se utilizarán equipos informáticos con acceso a la Red, así 
 
 1- Intención Educativa:
 - Justificación e impacto esperado. Esta situación de aprendizaje es crucial para que el alumnado comprenda la invisiblidad histórica de las mujeres en el arte y la importancia de su contribución a la misma. A través de la investigación y creación de una infografía sobre alguna de estas artistas y la posterior grabación de un podcast, no sólo se desarrollan las habilidades artísticas, artísticas y tecnológicas, sino que también se amplía la visión crítica sobre la igualdad de género en la cultura. Al tratarse de temas relevantes y contemporáneos, el alumnado se siente motivado y conectado con su entorno, promoviendo el respeto por la diversidad y la inclusión en el ámbito artístico.
+
+Retos del siglo XXI
+
 - Pensamiento Creativo. Desarrollar la creatividad a través del arte y expresar ideas de forma creativa.
 - Pensamiento Crítico. Interesarse por las manifestaciones artísticas y poder caracterizarlas
 - Gestión de medios y TIC. Comunicar utilizando una variedad de medios y formatos
