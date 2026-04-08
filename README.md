@@ -57,17 +57,52 @@ Competencia en conciencia y expresión culturales (CCEC): Comprensión y respeto
 
 1- Comprender la importancia que algunos ejemplos seleccionados de las distintas manifestaciones artísticas y culturales han tenido en el desarrollo de la humanidad, mostrando interés por el patrimonio como parte propia de la cultura, para entender cómo se invierten en el testimonio de los valores y convicciones de cada persona y de la sociedad en su conjunto, y para comprender la necesidad de su protección y conservación.
 
-Criterios de Evaluación
-1.1, Reconocer las factores históricos y sociales que rodean las producciones plásticas, visuales y audiovisuales más relevantes, desde una perspectiva de género.
+Criterios de Evaluación.
+1.1. Reconocer las factores históricos y sociales que rodean las producciones plásticas, visuales y audiovisuales más relevantes, desde una perspectiva de género.
 1.2. Valorar la importancia de la conservación del patrimonio cultural y artístico a través del conocimineto y el análisis guiado de obras de arte.
 
 Descriptores Operativos. CCL1, CPSAA3, CC1, CC2, CCEC1
 
 2- Explicar las producciones plásticas, visuales y audiovisuales propias, comparándolas con las de sus iguales y con algunas de las que conforman el patrimonio cultural y artístico, justificando las opiniones y teniendo en cuenta el progreso desde la intención hasta la realización, para valorar el intercambio, las experiencias compartidas y el diálogo intercultural, así como para superar estereotipos.
-- Analizar diferentes propuestas plásticas, visuales y audovisuales, mostrando respeto y desarrollando la capacidad de onservación e interiorización de la experiencia y del disfrute estético, para enriquecer la cultura artística individual y alimentar el imaginario.
-- Explorar técnicas, los lenguajes y las intenciones de diferentes producciones culturales y artísticas, analizando de forma abierta y respetuosa, tanto el proceso como el producto final, su recepción y su contexto, para descubrir las diversas posibilidades que ofrecen como fuente generadora de ideas y respuestas.
-- Realizar producciones artísticas colectivas con creatividad e imaginación, seleccionando y aplicando herramientas, técnicas y soportes en función de la intencionalidad, para expresar la visión del mundo, las emociones y los sentiminetos propios, así como para mejorar la capacidad de comunicacion y desarrollar la reflexión crítica y autoconfianza.
-- Apropiarse de las referencias culturales y artísticas del entorno, identificando sus singularidades, para enriquecer las pcreaciones propias y desarrollar la identidad personal, cultural y social.
+
+Criterios de Evaluación.
+2.1. Explicar, de forma razonada, la importancia del proceso que media entre la realidad, el imaginario y la producción, superando estereotipos y mostrando un comportamiento respetuoso con la diversidad.
+2.2. Analizar, de forma guiada, diversas porducciones artísticas, incluidas las propias y las de sus iguales, desarrollando con interés una mirada estética hacia el mundo y respetando la diversidad de las expresiones culturales.
+
+Descriptores Operativos. CCL1, CPSAA1, CPSAA3, CC1, CC3, CCEC1, CCEC3
+
+3- Analizar diferentes propuestas plásticas, visuales y audovisuales, mostrando respeto y desarrollando la capacidad de onservación e interiorización de la experiencia y del disfrute estético, para enriquecer la cultura artística individual y alimentar el imaginario.
+
+Criterios de Evaluación.
+3.1. Seleccionar y describir propuestas plásticas, visuales y audiovisuales de diversos tipos y épocas, analizándolas con curiosidad y respeto desde una perspectiva de género, e incorporándolas a su cultura personal y su imaginario propio.
+3.2. Argumentar el disfrute producido por la recepción del arte en todas sus formas y vertientes, compartiendo con respeto impresiones y emociones y expresnado la opinión personal de forma abierta.
+
+Descritores Operativos. CCL1, CCL2, CD1, CPSAA4, CC1, CC3, CCEC2
+
+4- Explorar técnicas, los lenguajes y las intenciones de diferentes producciones culturales y artísticas, analizando de forma abierta y respetuosa, tanto el proceso como el producto final, su recepción y su contexto, para descubrir las diversas posibilidades que ofrecen como fuente generadora de ideas y respuestas.
+
+Criterios de Evaluación.
+4.1 Reconocer los rasgos particulares de diversas técnicas y lenguajes artísticos, así como sus distintos procesos y resultados, buscando y analizando la información con interés y eficacia.
+4.2 Analizar de forma guiada las especifidades de los lenguajes de diferentes producciones culturales y artísticas, estableciendo conexiones entre ellas e incorporándolas creativamente en las producciones propias.
+
+Descriptores Operativos. CCL2, CD1, CD2, CPSAA3, CC3, CCEC2
+
+5- Realizar producciones artísticas colectivas con creatividad e imaginación, seleccionando y aplicando herramientas, técnicas y soportes en función de la intencionalidad, para expresar la visión del mundo, las emociones y los sentiminetos propios, así como para mejorar la capacidad de comunicacion y desarrollar la reflexión crítica y autoconfianza.
+
+Criterios de Evaluación.
+5.1 Expresar ideas y sentimientos en diferentes produciiones plásticas, visuales y audiovisuales, a través de la experimentación con diversas herramientas, técnicas y soportes, desarrollando la capacidad de comunicación y la reflexión crítica.
+5.2 Realizar diferentes tipos de producciones artísticas colectivas, justificando el proceso creativo, mostrando iniciativa y autoconfianza, integrando racionalidad, empatía y sensibilidad
+
+Descriptores Operativos CCL2, CPSAA1, CPSAA3, CPSAA4, CC3, CCEC3, CCEC4
+
+
+6- Apropiarse de las referencias culturales y artísticas del entorno, identificando sus singularidades, para enriquecer las pcreaciones propias y desarrollar la identidad personal, cultural y social.
+
+Criterios de Evaluación.
+6.1 Explicar su pertenencia a un contexto cultural concreto, a través del análisis de los aspectos formales y de los factores sociales que determinan diversas producciones culturales y artísticas actuales
+6.2 Utilizar creativamente referencias culturales y artísticas del entorno en la elaboración de producciones propias, mostrando una visión personal.
+
+Descritores Operativos. CCL2, CD1, CPSAA3, CC1, CCEC3
 
   		
 		
