@@ -55,8 +55,27 @@ Competencia en conciencia y expresión culturales (CCEC): Comprensión y respeto
 
 - Competencias Específicas.
 
-- Comprender la importancia que algunos ejemplos seleccionados de las distintas manifestaciones artísticas y culturales han tenido en el desarrollo de la humanidad, mostrando interés por el patrimonio como parte propia de la cultura, para entender cómo se invierten en el testimonio de los valores y convicciones de cada persona y de la sociedad en su conjunto, y para comprender la necesidad de su protección y conservación.
-- Explicar las producciones plásticas, visuales y audiovisuales propias, comparándolas con las de sus iguales y con algunas de las que conforman el patrimonio cultural y artístico, justificando las opiniones y teniendo en cuenta el progreso desde la intención hasta la realización, para valorar el intercambio, las experiencias compartidas y el diálogo intercultural, así como para superar estereotipos.
-- Analizar diferentes propuestas plásticas, visuales y audovisuales, mostrando respeto y desarrollando la capacidad de onservación e interiorización de la experiencia y del disfrute estético, para enriquecer la cultura artística individual y alimentar el imaginario
+1- Comprender la importancia que algunos ejemplos seleccionados de las distintas manifestaciones artísticas y culturales han tenido en el desarrollo de la humanidad, mostrando interés por el patrimonio como parte propia de la cultura, para entender cómo se invierten en el testimonio de los valores y convicciones de cada persona y de la sociedad en su conjunto, y para comprender la necesidad de su protección y conservación.
+
+Criterios de Evaluación
+1.1, Reconocer las factores históricos y sociales que rodean las producciones plásticas, visuales y audiovisuales más relevantes, desde una perspectiva de género.
+1.2. Valorar la importancia de la conservación del patrimonio cultural y artístico a través del conocimineto y el análisis guiado de obras de arte.
+
+Descriptores Operativos. CCL1, CPSAA3, CC1, CC2, CCEC1
+
+2- Explicar las producciones plásticas, visuales y audiovisuales propias, comparándolas con las de sus iguales y con algunas de las que conforman el patrimonio cultural y artístico, justificando las opiniones y teniendo en cuenta el progreso desde la intención hasta la realización, para valorar el intercambio, las experiencias compartidas y el diálogo intercultural, así como para superar estereotipos.
+- Analizar diferentes propuestas plásticas, visuales y audovisuales, mostrando respeto y desarrollando la capacidad de onservación e interiorización de la experiencia y del disfrute estético, para enriquecer la cultura artística individual y alimentar el imaginario.
+- Explorar técnicas, los lenguajes y las intenciones de diferentes producciones culturales y artísticas, analizando de forma abierta y respetuosa, tanto el proceso como el producto final, su recepción y su contexto, para descubrir las diversas posibilidades que ofrecen como fuente generadora de ideas y respuestas.
+- Realizar producciones artísticas colectivas con creatividad e imaginación, seleccionando y aplicando herramientas, técnicas y soportes en función de la intencionalidad, para expresar la visión del mundo, las emociones y los sentiminetos propios, así como para mejorar la capacidad de comunicacion y desarrollar la reflexión crítica y autoconfianza.
+- Apropiarse de las referencias culturales y artísticas del entorno, identificando sus singularidades, para enriquecer las pcreaciones propias y desarrollar la identidad personal, cultural y social.
+
+  		
+		
+		
+		
+		
+		
+
+
 
   
