@@ -5,10 +5,15 @@ Situación de Aprendizaje para trabajar la presencia de las Artistas Mujeres a l
 - Temporalización. Todo este proceso conlleva una temporalización de al menos seis sesiones.
 
 1- Sesión de investigación sobre artistas mujeres en la Historia utilizando el material propuesto para ello. Trabajo en Grupos de 2. 1 Sesión.
+
 2- Diseño de Infografía acerca de la artista selecionada. Esta incluirá imagen de la creadora, alguna obra y un apunte biográfico de la autora. Trabajo con los mismos agrupaminetos. 2 Sesiones.
+
 3- Realización de Guion para Podcast. Reagrupamientos con seis componentes. 2 Sesiones.
+
 4- Grabación del Podcast. 1 Sesión.
+
 5- Edición del Podcast. 1 Sesión.
+
 6- Presentación de los Podcast. 1 Sesión.
 
   
