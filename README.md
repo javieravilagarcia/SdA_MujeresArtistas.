@@ -55,4 +55,8 @@ Competencia en conciencia y expresión culturales (CCEC): Comprensión y respeto
 
 - Competencias Específicas.
 
+- Comprender la importancia que algunos ejemplos seleccionados de las distintas manifestaciones artísticas y culturales han tenido en el desarrollo de la humanidad, mostrando interés por el patrimonio como parte propia de la cultura, para entender cómo se invierten en el testimonio de los valores y convicciones de cada persona y de la sociedad en su conjunto, y para comprender la necesidad de su protección y conservación.
+- Explicar las producciones plásticas, visuales y audiovisuales propias, comparándolas con las de sus iguales y con algunas de las que conforman el patrimonio cultural y artístico, justificando las opiniones y teniendo en cuenta el progreso desde la intención hasta la realización, para valorar el intercambio, las experiencias compartidas y el diálogo intercultural, así como para superar estereotipos.
+- Analizar diferentes propuestas plásticas, visuales y audovisuales, mostrando respeto y desarrollando la capacidad de onservación e interiorización de la experiencia y del disfrute estético, para enriquecer la cultura artística individual y alimentar el imaginario
+
   
