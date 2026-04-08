@@ -25,6 +25,14 @@ Situación de Aprendizaje para trabajar la presencia de las Artistas Mujeres a l
 - Herramientas
 Fundamentalmente se utilizarán equipos informáticos con acceso a la Red, así como aplicaciones de diseño como Canva y programas de grabación y edición tipo Audicity. Al alumnado se le facilitarán enlaces para su investigación en busca de esas artistas mujeres silenciadas en los manuales de arte, hablamos sobre todo de la web www.taldiacomohoy.com consistente en un banco de datos amplísimo sobre mujeres artistas de cualquier época y estilo o porcedencia geográfica, trabajo realizado por la artista Diana Larrea y que supone todo un referente en la temática elegida.
 
+1- Intención Educativa:
+- Justificación e impacto esperado. Esta situación de aprendizaje es crucial para que el alumnado comprenda la invisiblidad histórica de las mujeres en el arte y la importancia de su contribución a la misma. A través de la investigación y creación de una infografía sobre alguna de estas artistas y la posterior grabación de un podcast, no sólo se desarrollan las habilidades artísticas, artísticas y tecnológicas, sino que también se amplía la visión crítica sobre la igualdad de género en la cultura. Al tratarse de temas relevantes y contemporáneos, el alumnado se siente motivado y conectado con su entorno, promoviendo el respeto por la diversidad y la inclusión en el ámbito artístico.
+- Pensamiento Creativo. Desarrollar la creatividad a través del arte y expresar ideas de forma creativa.
+- Pensamiento Crítico. Interesarse por las manifestaciones artísticas y poder caracterizarlas
+- Gestión de medios y TIC. Comunicar utilizando una variedad de medios y formatos
+- Mentalidad del Bienestar. Desarrollar emociones a través del arte.
+- Colaboración. Escuchar activamente otras perspectivas e ideas.
+
 
 
   
