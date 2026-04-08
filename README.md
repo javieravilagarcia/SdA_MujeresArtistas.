@@ -28,7 +28,7 @@ Fundamentalmente se utilizarán equipos informáticos con acceso a la Red, así 
 1- Intención Educativa:
 - Justificación e impacto esperado. Esta situación de aprendizaje es crucial para que el alumnado comprenda la invisiblidad histórica de las mujeres en el arte y la importancia de su contribución a la misma. A través de la investigación y creación de una infografía sobre alguna de estas artistas y la posterior grabación de un podcast, no sólo se desarrollan las habilidades artísticas, artísticas y tecnológicas, sino que también se amplía la visión crítica sobre la igualdad de género en la cultura. Al tratarse de temas relevantes y contemporáneos, el alumnado se siente motivado y conectado con su entorno, promoviendo el respeto por la diversidad y la inclusión en el ámbito artístico.
 
-Realción con ODS 2030 y Retos del siglo XXI
+Relación con ODS 2030 y Retos del siglo XXI
 
 ODS 5. Igualdad de Género. La igualdad entre géneros no es solo un derecho humano fundamental, sino la base necesaria para construir nuestro futuro.
 ODS 11. Ciudades y comunidades sostenibles. Conservar y difundir el patrimonio natural y cultural nos permite aprender del pasado, valorar el presente y consytruir el futuro.
