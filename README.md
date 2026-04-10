@@ -16,6 +16,8 @@ Situación de Aprendizaje para trabajar la presencia de las Artistas Mujeres a l
 
 6- Presentación de los Podcast. 1 Sesión.
 
+7- Sesión de gamificación. Wayground. 1 Sesión.
+
 - Productos.
 
 1- Infografía con Canva. Esta tarea deberá de incluir, además de la imagen de la artista elegida y algunas de sus obras, un elemento interactivo que despliegue una breve biografía de la autora.
