@@ -139,9 +139,7 @@ Bloque d. Imagen y comunicación visual y audiovisual.
 - Visita Museo de Bellas Artes de Asturias
 
 6. Atribución y Fichero descargable
-Creative Commons: Reconocimeinto-compartir igual 4.0
-
-
+Creative Commons  CC BY-SA 4.0
 
 
   		
